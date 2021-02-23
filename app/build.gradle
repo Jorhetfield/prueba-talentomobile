@@ -9,7 +9,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "es.hetfield.warrantysaver"
+        applicationId "es.hetfield.pruebatalentomobile"
         minSdkVersion 25
         targetSdkVersion 30
         versionCode 1
