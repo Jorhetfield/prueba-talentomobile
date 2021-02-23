@@ -1,0 +1,40 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <style name="CustomTabStyle" parent="Widget.MaterialComponents.TabLayout">
+        <item name="android:textSize">11sp</item>
+        <item name="menu_labels_margin">4dp</item>
+        <item name="fontFamily">@font/opensans_semibold</item>
+    </style>
+
+    <style name="MyEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <!-- Floating label appearance here -->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="boxStrokeColor">@color/white</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="boxBackgroundColor">@color/red</item>
+    </style>
+
+    <style name="CustomFAB" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="tint">@color/white</item>
+        <item name="android:backgroundTint">@color/greenButton</item>
+        <item name="maxImageSize">24dp</item>
+    </style>
+</resources>

@@ -1,0 +1,69 @@
+{
+    "ads": [
+        {
+            "id": "1",
+            "imageUrl": "https://images.pexels.com/videos/3209211/free-video-3209211.jpg",
+            "title": "Conócenos",
+            "subtitle": "Grupo Educativo CEF.-UDIMA",
+            "destinationUrl": "https://www.cef.es"
+        },
+        {
+            "id": "2",
+            "imageUrl": "https://ep01.epimg.net/economia/imagenes/2018/06/01/actualidad/1527865365_081886_1527866419_noticia_normal.jpg",
+            "title": "Nuestros centros",
+            "subtitle": "Centros por todo el mundo",
+            "destinationUrl": "https://www.cef.es"
+        },
+        {
+            "id": "3",
+            "imageUrl": "https://anec.es/wp-content/uploads/2017/02/trabajo-consultoria-empresas-anec.jpg",
+            "title": "Desde casa",
+            "subtitle": "Consulta nuestros cursos online",
+            "destinationUrl": "https://www.cef.es"
+        }
+    ],
+    "myCourses": [
+    {
+        "id": "11",
+        "type": "Máster",
+        "name": "MBA dirección de negocios internacionales",
+        "subtitle": "MADRID - ON LINE",
+        "imageUrl": "https://ep01.epimg.net/economia/imagenes/2018/06/01/actualidad/1527865365_081886_1527866419_noticia_normal.jpg",
+        "destinationUrl": "https://www.cef.es"
+    }
+    ],
+    "courses": [
+        {
+            "id": "12",
+            "type": "Máster",
+            "name": "Cuadro de mandos para PYMES",
+            "subtitle": "MADRID",
+            "imageUrl": "https://blog.hubspot.es/hubfs/descripcion-de-una-empresa-ejemplos.jpg",
+            "destinationUrl": "https://www.cef.es"
+        },
+        {
+            "id": "13",
+            "type": "Curso",
+            "name": "ADE. Curso de inglés simplificado",
+            "subtitle": "ON LINE",
+            "imageUrl": "https://blog.hubspot.es/hubfs/descripcion-de-una-empresa-ejemplos.jpg",
+            "destinationUrl": "https://www.cef.es"
+        },
+        {
+            "id": "14",
+            "type": "Máster",
+            "name": "Introducción a la contabilidad financiera",
+            "subtitle": "MADRID - ON LINE",
+            "imageUrl": "https://anec.es/wp-content/uploads/2017/02/trabajo-consultoria-empresas-anec.jpg",
+            "destinationUrl": "https://www.cef.es"
+        },
+        {
+            "id": "15",
+            "type": "Máster",
+            "name": "Ley para el emprendedor y manager",
+            "subtitle": "Barcelona",
+            "imageUrl": "https://blog.hubspot.es/hubfs/descripcion-de-una-empresa-ejemplos.jpg",
+            "destinationUrl": "https://www.cef.es"
+        }
+    ]
+}

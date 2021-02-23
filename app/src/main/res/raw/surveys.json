@@ -1,0 +1,46 @@
+[
+    {
+      "id": 3,
+      "title": "Cuestionario completo",
+      "activated": false,
+      "startDate": "2020-09-04T01:23:44Z",
+      "userId": 2,
+      "userLogin": "profesor1"
+    },
+    {
+      "id": 12,
+      "startDate": "2020-04-01T01:23:44Z",
+      "title": "Encuesta 2 Estategia Empresarial",
+      "activated": true
+    },
+    {
+      "id": 12,
+      "startDate": "2020-03-30T01:23:44Z",
+      "title": "Titulo de Encuesta",
+      "activated": false
+    },
+    {
+      "id": 12,
+      "startDate": "2020-03-30T01:23:44Z",
+      "title": "Titulo de Encuesta",
+      "activated": true
+    },
+    {
+      "id": 12,
+      "startDate": "2020-03-28T01:23:44Z",
+      "title": "Titulo de Encuesta",
+      "activated": false
+    },
+    {
+      "id": 12,
+      "startDate": "2020-03-16T01:23:44Z",
+      "title": "Titulo de Encuesta",
+      "activated": false
+    },
+    {
+      "id": 12,
+      "startDate": "2020-03-12T01:23:44Z",
+      "title": "Titulo de Encuesta",
+      "activated": false
+    }
+ ]

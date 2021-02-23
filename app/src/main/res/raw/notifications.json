@@ -1,0 +1,38 @@
+{
+    "notifications":
+    [
+        {
+            "date":"2020-04-01T01:23:44Z",
+            "title":"Jornada de puertas abiertas",
+            "message":"Ven el 5 de mayo a nuestro centro"
+        },{
+            "date":"2020-03-30T01:23:44Z",
+            "title":"Nuevo sistema de control de asistencia",
+            "message":"A partir del proximo 15 de abril entra en funcionamiento el nuevo control de asistencia por medio de la aplicación CEF app"
+        },{
+            "date":"2020-03-22T01:23:44Z",
+            "title":"Cambio de aula",
+            "message":"El 24 y 25 de marzo la clase de informática se realizará en el aula 202"
+        },{
+            "date":"2020-03-22T01:23:44Z",
+            "title":"Cambio de aula",
+            "message":"El 24 y 25 de marzo la clase de informática se realizará en el aula 202"
+        },{
+            "date":"2020-03-22T01:23:44Z",
+            "title":"Cambio de aula",
+            "message":"El 24 y 25 de marzo la clase de informática se realizará en el aula 202"
+        },{
+            "date":"2020-03-22T01:23:44Z",
+            "title":"Cambio de aula",
+            "message":"El 24 y 25 de marzo la clase de informática se realizará en el aula 202"
+        },{
+            "date":"2020-03-22T01:23:44Z",
+            "title":"Cambio de aula",
+            "message":"El 24 y 25 de marzo la clase de informática se realizará en el aula 202"
+        },{
+            "date":"2020-03-22T01:23:44Z",
+            "title":"Cambio de aula",
+            "message":"El 24 y 25 de marzo la clase de informática se realizará en el aula 202"
+        }
+    ]
+}

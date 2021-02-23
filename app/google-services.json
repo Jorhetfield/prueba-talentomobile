@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840214814764",
+    "firebase_url": "https://cefapp-61fa8.firebaseio.com",
+    "project_id": "cefapp-61fa8",
+    "storage_bucket": "cefapp-61fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840214814764:android:dabb2cf7617ee6bd7cf189",
+        "android_client_info": {
+          "package_name": "es.hetfield.warrantysaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840214814764-4o358ek8v1lgs4psk8s267f73ha3ilsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.hetfield.warrantysaver",
+            "certificate_hash": "9cf212f490e2dec23bc5237ca66910de684893d5"
+          }
+        },
+        {
+          "client_id": "840214814764-4k8af646vgvanv6971cqqj1mi1ctl8s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYfGBJlUpVgqqMWY6ykH-Ubz5zHm5PQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840214814764-4k8af646vgvanv6971cqqj1mi1ctl8s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "840214814764-vh2kko5b2d1jqm9tukajgrabcutt1b6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "es.hetfield.warrantysaver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

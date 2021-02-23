@@ -1,0 +1,87 @@
+{
+    "title": "Encuesta 2 Estrategía Empresarial",
+    "questions":
+    [
+        {
+            "id":1,
+            "text":"Pregunta 1",
+            "selected":1,
+            "options":[
+                {
+                    "text": "Respuesta 1",
+                    "image":"",
+                    "is_correct":false
+                },{
+                    "text": "Respuesta 2 (correcta)",
+                    "image":"",
+                    "is_correct":true
+                },{
+                    "text": "Respuesta larga para comprobar que el tamaño de la celda se ajusta automaticamente en función del texto",
+                    "image":"",
+                    "is_correct":false
+                }
+            ]
+        },{
+            "id":2,
+            "text":"Pregunta 2 con cuatro respuestas e imágenes",
+            "selected":3,
+            "options":[
+                {
+                    "text": "(correcta)",
+                    "image":"https://live.mrf.io/statics/i/ps/www.ecestaticos.com/imagestatic/clipping/140/de1/140de13770c9899c92a0404286af9236/la-razon-del-hundimiento-de-nokia-y-es-algo-que-pasa-todos-los-dias-en-tu-empresa.jpg",
+                    "is_correct":true
+                },{
+                    "text": "Respuesta 2, larga para comprobar que el tamaño de la celda se ajusta automaticamente en función del texto",
+                    "image":"https://blog.hubspot.es/hubfs/descripcion-de-una-empresa-ejemplos.jpg",
+                    "is_correct":false
+                },{
+                    "text": "Respuesta 3, larga para comprobar que el tamaño de la celda se ajusta automaticamente en función del texto",
+                    "image":"https://ep01.epimg.net/economia/imagenes/2018/06/01/actualidad/1527865365_081886_1527866419_noticia_normal.jpg",
+                    "is_correct":false
+                },{
+                    "text": "Respuesta 4",
+                    "image":"https://anec.es/wp-content/uploads/2017/02/trabajo-consultoria-empresas-anec.jpg",
+                    "is_correct":false
+                }
+            ]
+        }, {
+            "id":3,
+            "text":"Pregunta 3, larga para comprobar que el tamaño de la celda se ajusta automaticamente en función del texto",
+            "selected":0,
+            "options":[
+                {
+                    "text": "(correcta)",
+                    "image":"https://comunidad.iebschool.com/iebs/files/2015/04/employer-branding.png",
+                    "is_correct":true
+                },{
+                    "text": "Respuesta 2",
+                    "image":"https://blog.hubspot.es/hubfs/descripcion-de-una-empresa-ejemplos.jpg",
+                    "is_correct":false
+                }
+            ]
+        }, {
+            "id":4,
+            "text":"Pregunta 4",
+            "selected":3,
+            "options":[
+                {
+                    "text": "Respuesta 1",
+                    "image":"",
+                    "is_correct":false
+                },{
+                    "text": "Respuesta 2 (correcta)",
+                    "image":"",
+                    "is_correct":true
+                },{
+                    "text": "Respuesta 3",
+                    "image":"",
+                    "is_correct":false
+                },{
+                    "text": "Respuesta 4",
+                    "image":"",
+                    "is_correct":false
+                }
+            ]
+        }
+    ]
+}

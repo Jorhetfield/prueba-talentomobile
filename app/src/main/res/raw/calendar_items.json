@@ -1,0 +1,334 @@
+{
+    "items":
+    [
+        {
+            "date":"2021-03-03T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Taller sobre el uso de las nuevas tecnologías aplicadas a herramientas de contabilidad empresarial",
+                    "comment":"",
+                    "horaIni": "16:30",
+                    "horaFin": "19:00",
+                    "centro" : "CEF Barcelona",
+                    "aula" : "Lab 101"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen de matemáticas",
+                    "comment":"",
+                    "horaIni": "12:00",
+                    "horaFin": "14:00",
+                    "centro" : "CEF Madrid",
+                    "aula" : "405"
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación individual",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Hacer los deberes",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Empezar con el trabajo final",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-06T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-07T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-08T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-09T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-10T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-13T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-14T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-15T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-16T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-017T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-20T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-21T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-22T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-23T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        },{
+            "date":"2021-03-24T01:23:44Z",
+            "items": [
+                {
+                    "type":2,
+                    "titulo":"Workshop 2",
+                    "comment":"Subtitulo"
+                },
+                {
+                    "type":3,
+                    "titulo":"Examen del modulo 4",
+                    "comment":""
+                },
+                {
+                    "type":1,
+                    "titulo":"Preparar presentación en grupo",
+                    "comment":""
+                }
+            ]
+        }
+        
+    ]
+}
